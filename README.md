@@ -1,2 +1,2 @@
 # paytm-gateway-laravel
-implementtation of paytm gatewau in laravel
+<h1>How to implement paytm gateway in laravel</h1>
